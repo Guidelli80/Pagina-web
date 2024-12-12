@@ -1,0 +1,106 @@
+body{
+background-color: aquamarine;
+
+
+}
+
+
+#titulo{
+
+font-size: 35px;
+height: 150px;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+color: white;
+background-color: green;
+
+
+
+}
+
+ul{
+background-color: greenyellow;
+border-radius: 10px;
+width: auto;
+height: auto;
+
+
+}
+
+#nome{
+border: 0px;
+border-radius: 4px;
+width: 200px;
+height: 20px;
+}
+
+#sobrenome{
+border: 0px;
+border-radius: 4px;
+width: 200px;
+height: 20px;
+}
+
+#email{
+    border: 0px;
+    border-radius: 4px;
+    width: 200px;
+    height: 20px;
+}
+
+#tel{
+border: 0px;
+border-radius: 4px;
+width: 200px;
+height: 20px;
+}
+
+#checkin{
+    border: 0px;
+    border-radius: 4px;
+    width: 200px;
+    height: 20px;
+}
+
+#checkout{
+    border: 0px;
+    border-radius: 4px;
+    width: 200px;
+    height: 20px;
+}
+
+#senha{
+    border: 0px;
+    border-radius: 4px;
+    width: 200px;
+    height: 20px;
+}
+
+#confirmasenha{
+border: 0px;
+border-radius: 4px;
+width: 200px;
+height: 20px;
+
+}
+
+#botao{
+    width: 100px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: 0px;
+    border-radius: 3px;
+    cursor:pointer;
+}
+
+#botao:hover{
+transform: scale(1.2);
+
+}
+
+#cadastro{
+text-align: center;
+
+}
